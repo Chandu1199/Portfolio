@@ -1,0 +1,80 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+#navbar-letter {
+    font-size: 35px;
+    color: white;
+    font-family: Roboto;
+    font-weight: bold;
+
+}
+
+#head-navbar1 {
+    color: white;
+    font-size: 18px;
+    font-family: Roboto;
+}
+
+#head-navbar2 {
+    color: white;
+    font-size: 18px;
+    font-family: Roboto;
+}
+
+#head-navbar3 {
+    color: white;
+    font-size: 18px;
+    font-family: Roboto;
+}
+
+#head-navbar4 {
+    color: white;
+    font-size: 18px;
+    font-family: Roboto;
+}
+
+#head-navbar5 {
+    color: white;
+    font-size: 18px;
+    font-family: Roboto;
+}
+
+.bg-container {
+    background-color: #191a1d;
+    height: 100vh;
+    background-size: cover;
+
+}
+
+.banner-image {
+    width: 100%;
+    max-width: 380px;
+    margin-bottom: 10px;
+
+}
+
+.banner-heading {
+    font-size: 53px;
+    font-family: Roboto;
+    color: white;
+}
+
+.jenny-head {
+    color: #4b6cc1;
+}
+
+.banner-para {
+    font-size: 28px;
+    color: #9aa5b1;
+    font-family: Roboto;
+}
+
+.banner-button {
+    height: 55px;
+    width: 160px;
+    font-size: 21px;
+    color: white;
+    font-family: Roboto;
+    background-color: #4b6cc1;
+    border-width: 0px;
+    border-radius: 8px;
+}
